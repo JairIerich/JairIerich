@@ -1,75 +1,56 @@
-# JAIR URBANO IERICH NETO
+<h1 align="left">Hi 👋! My name is Jair and I'm 18 and based in São Paulo.</h1>
 
-**Desenvolvedor Júnior | Programação e Tecnologia**
+<div align="center">
+    <h3>Software engineering student focused on API and mobile application development. I primarily work with Python, Android development in Kotlin, and MySQL</h3>
+</div>
 
----
+<br/>
+<br/>
+ 
+###
+ 
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxncWk0eGx3MTRpNmo5djA0YXgwbnJ6cWt0eDV4Z2U5eGQxbzUwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1PB2ZpDj3CwPtaUW1l/giphy.gif"  />
 
-## CONTATO
+ 
+###
+ 
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="70" alt="kotlin logo"  />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="git logo"  />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="70" alt="figma logo"  />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="70" alt="intellij logo"  />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="java logo"  />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="70" alt="postgresql logo"  />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" alt="mysql logo"  />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" alt="vscode logo"  />
+</div>
+ 
+###
+ 
+<br clear="both">
+ <div align="center">
+  <a href="https://linkedin.com/in/jair-ierich" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+ 
+###
+ 
+## My Contribution Graph ⭐
 
-*   **Localização:** São Paulo, SP
-*   **Telefone:** (11) 94899-4288
-*   **E-mail:** neto.ierich@hotmail.com
-*   **GitHub:** [https://github.com/JairIerich](https://github.com/JairIerich)
-*   **Linkedin:** [www.linkedin.com/in/jair-ierich](www.linkedin.com/in/jair-ierich)
-
----
-
-## OBJETIVO PROFISSIONAL
-
-Profissional em início de carreira na área de programação, com **conhecimentos sólidos em Java, Python, JavaScript, HTML e lógica de programação**. Busco uma oportunidade para aplicar meus aprendizados em projetos reais, desenvolvendo soluções criativas e evoluindo continuamente como desenvolvedor.
-
----
-
-## HABILIDADES TÉCNICAS
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | Java, Python, JavaScript, HTML, CSS, Dart, Go |
-| **Frameworks/Libs** | Spring Boot, Spring Data JPA, Hibernate, Flexbox |
-| **Banco de Dados** | SQL, PostgreSQL, MySQL |
-| **Versionamento** | Git, GitHub |
-| **Metodologias** | Scrum, Extreme Programming, Microsserviços, Integração/Entrega Contínua (CI/CD) |
-| **Outras** | Docker, Terminal, Lógica de Programação, Orientação a Objetos (OO), APIs REST |
-
----
-
-## EXPERIÊNCIA PROFISSIONAL
-
-**Funcionário Administrativo** | Urbano's coffee
-*Carapicuíba, São Paulo | 03/2025 – Atual*
-
-*   Gerenciamento de informações cadastrais de clientes e máquinas.
-*   Suporte administrativo para controle de relatórios.
-*   Elaboração de planilhas com dados para uso nas operações.
-
----
-
-## FORMAÇÃO E CERTIFICAÇÕES
-
-**Formação em Programação e Desenvolvimento** | Alura (Online)
-*09/2024 – 09/2025 (Previsão de Conclusão)*
-
-*   **Foco em Java e Spring Boot:** Conhecimento aprofundado em criação de APIs REST, persistência de dados (JPA/Hibernate), boas práticas de programação e testes automatizados.
-*   **Foco em Python:** Criação de aplicações e introdução a Data Science (funções, estruturas de dados e exceções).
-*   **Desenvolvimento Web:** HTML, CSS, JavaScript para Web (páginas dinâmicas) e responsividade (mobile-first).
-*   **DevOps e Metodologias:** Docker, Microsserviços, CI/CD, Scrum e Extreme Programming.
-
-**CNA Progression: Intermediate** | CNA
-*Carapicuíba | 01/2017 – 07/2022*
-
-*   **Inglês:** Nível Intermediário (B2).
-
-**Curso de Programação e Robótica para Kids & Teens (Fases 0, 1 e 2)** | SuperGeeks
-*Carapicuíba | 01/2017 – 03/2019*
-
----
-
-## INFORMAÇÕES ADICIONAIS
-
-*   **Nacionalidade:** Brasileira
-*   **Estado Civil:** Solteiro
-*   **Nascimento:** 07/07/2007
-*   **Idiomas:** Português (Nativo), Inglês (Intermediário - B2)
-*   **Soft Skills:** Raciocínio lógico, pensamento analítico, trabalho em equipe, boa comunicação, organização, aprendizado contínuo, criatividade e resiliência.
-*   **Portfólio:** Projetos disponíveis no GitHub.
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VicenteStramantino/VicenteStramantino/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VicenteStramantino/VicenteStramantino/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VicenteStramantino/VicenteStramantino/output/pacman-contribution-graph.svg">
+</picture>
+ 
+###
