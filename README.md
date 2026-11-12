@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋! My name is Jair and I'm 18 and based in São Paulo.</h1>
 
 <div align="center">
-    <h3>Software engineering student focused on API and mobile application development. I primarily work with Python, Android development in Kotlin, and MySQL</h3>
+    <h3> Systems Analysis and Development student focused on Java and Spring Boot. I build REST APIs with clean architecture, JPA and real database persistence — and I'm deepening my skills in testing and cybersecurity.</h3>
 </div>
 
 <br/>
